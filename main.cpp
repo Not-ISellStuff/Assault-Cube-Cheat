@@ -13,10 +13,6 @@ struct Cheat {
 
     DWORD nHEALTH = 9999999;
     DWORD nAMMO = 9999999;
-
-    bool Health() {
-
-    }
 };
 
 int main() {
